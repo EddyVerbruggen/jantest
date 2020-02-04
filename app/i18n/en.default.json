@@ -1,0 +1,227 @@
+{
+  "app.name": "Kobboy",
+  "ios.info.plist": {
+    "NSLocationWhenInUseUsageDescription": "We need to see your location, in order to show you parking places near to where you are."
+  },
+
+  "languagecode": "EN",
+  "homeLat": "52.872781",
+  "homeLng": "-1.354775",
+
+  "currency": {
+    "symbol": "£",
+    "abbr": "GBP",
+    "price": "Price"
+  },
+
+  "user": {
+    "name": "Username (your email)",
+    "password": "Password",
+    "login": "Log in",
+    "forgotten": "Forgot your password?",
+    "new": "Sign up now!",
+    "wrong": "Wrong username or password",
+    "error": "Error",
+    "ok": "OK",
+    "introMsg": "Earn money on your private parking spot when you don't use it youself, and find affordable parkingspaces near to where you're going",
+    "newUserMsg": "New user? Sign up here:"
+  },
+
+  "newuser": {
+    "newuserz": "New user",
+    "introMsg": "With KOBBOY you can find affordable parking spaces when you need them.",
+    "name": "Name",
+    "namePH": "Your name"
+  },
+
+  "menu": {
+    "find": "Find parking",
+    "bookings": "Bookings",
+    "rentals": "Parking spaces",
+    "profile": "Profile"
+  },
+
+  "find": {
+    "btn.book": "Book parking",
+    "notrated": "not rated"
+  },
+
+  "bookings": {
+    "heading": "Bookings",
+    "mybookings": "My bookings",
+    "rentals": "Rentals"
+  },
+
+  "bookingDetUtl": {
+    "rentaldetails": "Rental details",
+    "customer": "Customer",
+    "start": "Start",
+    "end": "End",
+    "income": "Income",
+    "callprompt": "Call the customer now?",
+    "yes": "Yes, call now",
+    "cancel": "Cancel"
+  },
+
+  "bookingDetMine": {
+    "customer": "Kunde",
+    "start": "Start",
+    "end": "End",
+    "income": "Income",
+    "landlord": "Owner"
+  },
+
+  "hour": "hour",
+  "week": "week",
+  "month": "month",
+  "year": "year",
+  "Hour": "Hour",
+  "Week": "Week",
+  "Month": "Month",
+  "Year": "Year",
+  "monday": "Monday",
+  "tuesday": "Tuesday",
+  "wednesday": "Wednesday",
+  "thursday": "Thursday",
+  "friday": "Friday",
+  "saturday": "Saturday",
+  "sunday": "Sunday",
+  "back": "Back",
+
+  "mylots": {
+    "mylots": "My parking spaces",
+    "introtext": "Hire out your own parking lot by adding it here. Describe the space as well as you can, and don't forget to add a picture."
+  },
+
+  "newlot": {
+    "newlot": "New parking space",
+    "subtitle": "PS: tap to add picture!",
+    "name": "Name",
+    "namePH": "Greg's nice parking space",
+    "desc": "Description",
+    "descPH": "To the left by the wall",
+    "address": "Address",
+    "street": "Street",
+    "zip": "Postal code",
+    "city": "City",
+    "prices": "Pricing",
+    "subt": "Remember that you can set limitations for availability after you have added the parking space!",
+    "saveBtn": "Save and activate now",
+    "cancelBtn": "Cancel",
+    "error": "Error",
+    "error1": "You must enter a name and description!",
+    "error2": "You must enter the address!",
+    "error3": "We can't find the address on the map!",
+    "error4": "You need to add an image!",
+    "error5": "Something went wrong. Please try again!",
+    "defHourPrice": "5",
+    "defDayPrice": "40",
+    "defWeekPrice": "300",
+    "limitHour": "50",
+    "limitDay": "500",
+    "limitWeek": "2000",
+    "incrementDay": "5",
+    "incrementWeek": "10"
+  },
+
+  "editLot": {
+    "editLot": "Edit parking space",
+    "imageReminder": "Ps: tap to change picture!",
+    "availability": "Availability",
+    "activeSwitch": "Active",
+    "limitations": "Limitations",
+    "saveBtn": "Save changes",
+    "delSpaceBtn": "Delete parking space",
+    "cancelBtn": "Cancel",
+    "dialogConfirm": "Delete parking space?",
+    "dialogYes": "Yes, delete now",
+    "dialogCancel": "Cancel",
+    "dialogLimit": "Delete limitation?",
+    "dialogLimitDesc": "The parking space will be open for booking for everyone in the alotted timespan.",
+    "dialogLimitYes": "Yes, delete limitation"
+  },
+
+  "profile": {
+    "profile": "Profile",
+    "name": "Name",
+    "namePH": "Your name",
+    "email": "Email",
+    "emailPH": "Your email",
+    "phone": "Phone",
+    "phonePH": "Your phone",
+    "address": "Address",
+    "street": "Street",
+    "postalcode": "Postal code",
+    "city": "City",
+    "storeBtn": "Save changes",
+    "vehicles": "Your vehicles",
+    "cardHeading": "Card",
+    "card1": "Enter card details",
+    "card2": "See card details",
+    "paymentDash": "Payment dashboard",
+    "other": "Other",
+    "logout": "Log out",
+    "ok": "OK!",
+    "savedMsg": "Profile is saved",
+    "promptLogout": "Log out?",
+    "selectYes": "Yes, log out",
+    "cancel": "Cancel"
+  },
+
+  "newVehicle": {
+    "newVehicle": "New vehicle",
+    "subtitle": "PS: tap to add picture!",
+    "brand": "Brand",
+    "brandPH": "The cars' brand",
+    "regnumber": "Reg. no.",
+    "regnumberPH": "Licence plate no.",
+    "saveBtn": "Save vehicle",
+    "cancel": "Cancel",
+    "error": "Error",
+    "errorMsg": "You need to add a picture!",
+    "ok": "OK",
+    "errorMsg2": "You need to add the brand and registration number!",
+    "errorMsg3": "Something went wrong. Please try again!"
+  },
+
+  "card": {
+    "card": "Payment card",
+    "cardMsg": "Kobboy uses the payment provider Stripe. We don't have direct access to your payment details, and you can store your card details here in a safe and secure way.",
+    "cancelBtn": "Cancel",
+    "deleteBtn": "Remove card",
+    "addCard": "Add card",
+    "storeCard": "Save card",
+    "dialogTitle": "Remove card?",
+    "dialogMsg": "You need a stored payment card to make bookings",
+    "dialogYes": "Yes, remove my card",
+    "dialogCancel": "Cancel",
+    "error1": "Something went wrong. Please try again!",
+    "delMsg": "Card deleted",
+    "cardOkMsg": "Card is saved. You can now use Kobboy to book parking!"
+  },
+
+  "vehicle": {
+    "vehicle": "Vehicle details",
+    "subtitle": "PS: tap to change picture!",
+    "brand": "Brand",
+    "brandPH": "The cars' brand",
+    "regnumber": "Reg. no.",
+    "regnumberPH": "Licence plate no.",
+    "saveBtn": "Save vehicle",
+    "deleteBtn": "Delete vehicle",
+    "deleteTitle": "Delete this vehicle?",
+    "deleteYes": "Yes, delete now.",
+    "cancel": "Cancel",
+    "error": "Error",
+    "errorMsg": "You need to add a picture!",
+    "ok": "OK",
+    "errorMsg2": "You need to add the brand and registration number!",
+    "errorMsg3": "Something went wrong. Please try again!"
+  },
+
+  "tabilde": {
+    "title": "Change profile picture",
+    "pictureBtn": "Use the camera",
+    "avbrytBtn": "Cancel"
+  }
+}

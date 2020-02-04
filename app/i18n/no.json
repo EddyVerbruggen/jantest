@@ -1,0 +1,227 @@
+{
+  "app.name": "Kobboy",
+  "ios.info.plist": {
+    "NSLocationWhenInUseUsageDescription": "Vi trenger tilgang til din plassering for å vise deg p-plasser der du er."
+  },
+
+  "languagecode": "NO",
+  "homeLat": "61.711758",
+  "homeLng": "9.269129",
+
+  "currency": {
+    "symbol": "Kr.",
+    "abbr": "Kr.",
+    "price": "Pris"
+  },
+
+  "user": {
+    "name": "Brukernavn (din epost)",
+    "password": "Passord",
+    "login": "Logg inn",
+    "forgotten": "Glemt passord?",
+    "new": "Ny bruker",
+    "wrong": "Galt brukernavn eller passord",
+    "error": "Feil",
+    "ok": "OK",
+    "introMsg": "Tjen penger på din private parkeringsplass når du ikke bruker den, og finn rimelige parkeringsplasser nært dit du skal",
+    "newUserMsg": "Ny bruker? Opprett bruker her:"
+  },
+
+  "newuser": {
+    "newuserz": "Ny bruker",
+    "introMsg": "Med KOBBOY kan du finne rimelige parkeringsplasser når du trenger dem.",
+    "name": "Navn",
+    "namePH": "Ditt navn"
+  },
+
+  "menu": {
+    "find": "Finn P-plass",
+    "bookings": "Bookinger",
+    "rentals": "Utleie",
+    "profile": "Profil"
+  },
+
+  "find": {
+    "btn.book": "Book parkering",
+    "notrated": "ikke ratet"
+  },
+
+  "bookings": {
+    "heading": "Bookinger",
+    "mybookings": "Mine Bookinger",
+    "rentals": "Utleie"
+  },
+
+  "bookingDetUtl": {
+    "rentaldetails": "Utleiedetaljer",
+    "customer": "Kunde",
+    "start": "Start",
+    "end": "Slutt",
+    "income": "Inntekt",
+    "callprompt": "Vil du ringe?",
+    "yes": "Ja, ring kunden nå",
+    "cancel": "Avbryt"
+  },
+
+  "bookingDetMine": {
+    "customer": "Kunde",
+    "start": "Start",
+    "end": "Slutt",
+    "income": "Inntekt",
+    "landlord": "Utleier"
+  },
+
+  "hour": "time",
+  "week": "uke",
+  "month": "måned",
+  "year": "år",
+  "Hour": "Time",
+  "Week": "Uke",
+  "Month": "Måned",
+  "Year": "År",
+  "monday": "Mandag",
+  "tuesday": "Tirsdag",
+  "wednesday": "Onsday",
+  "thursday": "Torsdag",
+  "friday": "Fredag",
+  "saturday": "Lørdag",
+  "sunday": "Søndag",
+  "back": "Tilbake",
+
+  "mylots": {
+    "mylots": "Utleieplasser",
+    "introtext": "Lei ut din egen p-plass ved å legge den til her. Beskriv plassen din så godt du kan, og husk bilde."
+  },
+
+  "newlot": {
+    "newlot": "Ny P-plass",
+    "subtitle": "PS: tapp for å ta bilde!",
+    "name": "Navn",
+    "namePH": "F.eks. Jan's fine parkeringsplass",
+    "desc": "Beskrivelse",
+    "descPH": "F.eks. til venstre langs veggen",
+    "address": "Addresse",
+    "street": "Adresse",
+    "zip": "Postnr.",
+    "city": "Sted",
+    "prices": "Priser",
+    "subt": "Husk at du kan legge inn begrensninger for når det er mulig å booke din nye P-plass etter at du har opprettet den!",
+    "saveBtn": "Lagre og aktiver nå",
+    "cancelBtn": "Avbryt",
+    "error": "Feil",
+    "error1": "Du må legge inn navn og beskrivelse!",
+    "error2": "Du må legge inn adressen!",
+    "error3": "Vi kan ikke finne adressen på kartet!",
+    "error4": "Du må legge inn et bilde!",
+    "error5": "En feil oppstod. Prøv igjen!",
+    "defHourPrice": "20",
+    "defDayPrice": "350",
+    "defWeekPrice": "1800",
+    "limitHour": "100",
+    "limitDay": "1000",
+    "limitWeek": "10000",
+    "incrementDay": "10",
+    "incrementWeek": "100"
+  },
+
+  "editLot": {
+    "editLot": "Endre P-plass",
+    "imageReminder": "Ps: tapp for å endre bilde!",
+    "availability": "Tilgjengelighet",
+    "activeSwitch": "P-plassen er aktiv",
+    "limitations": "Begrensninger",
+    "saveBtn": "Lagre endringer",
+    "delSpaceBtn": "Slett P-plass",
+    "cancelBtn": "Avbryt",
+    "dialogConfirm": "Slett P-plass?",
+    "dialogYes": "Ja, slett nå",
+    "dialogCancel": "Avbryt",
+    "dialogLimit": "Slette begrensning?",
+    "dialogLimitDesc": "Alle som ønsker vil kunne booke i tidsrommet.",
+    "dialogLimitYes": "Ja, slett begrensning"
+  },
+
+  "profile": {
+    "profile": "Profil",
+    "name": "Navn",
+    "namePH": "Ditt navn",
+    "email": "Email",
+    "emailPH": "Din email",
+    "phone": "Mobil",
+    "phonePH": "Ditt mobilnummer",
+    "address": "Adresse",
+    "street": "Gate",
+    "postalcode": "Postnummer",
+    "city": "Sted",
+    "storeBtn": "Lagre endringer",
+    "vehicles": "Dine kjøretøy",
+    "cardHeading": "Betalingskort",
+    "card1": "Legg inn kortdetaljer",
+    "card2": "Se kortdetaljer",
+    "paymentDash": "Utleie dashboard",
+    "other": "Annet",
+    "logout": "Logg ut",
+    "ok": "OK!",
+    "savedMsg": "Profil ble lagret",
+    "promptLogout": "Logge ut?",
+    "selectYes": "Ja, logg ut",
+    "cancel": "Avbryt"
+  },
+
+  "newVehicle": {
+    "newVehicle": "Nytt kjøretøy",
+    "subtitle": "PS: tapp for å endre bilde!",
+    "brand": "Merke",
+    "brandPH": "F.eks. Maxda, BMW, Mercedes",
+    "regnumber": "Reg. nr.",
+    "regnumberPH": "Reg. nr.",
+    "saveBtn": "Lagre kjøretøy",
+    "cancel": "Avbryt",
+    "error": "Feil",
+    "errorMsg": "Du må legge til et bilde!",
+    "ok": "OK",
+    "errorMsg2": "Du må legge inn bilmerke og reg.nr.!",
+    "errorMsg3": "En feil oppstod. Prøv igjen!"
+  },
+
+  "card": {
+    "card": "Betalingskort",
+    "cardMsg": "Kobboy bruker betalingsformidleren Stripe. Vi har aldri direkte tilgang til dine kortdetaljer.",
+    "cancelBtn": "Avbryt",
+    "deleteBtn": "Slett kort",
+    "addCard": "Legg inn kort",
+    "storeCard": "Lagre kort",
+    "dialogTitle": "Fjerne kort?",
+    "dialogMsg": "Du trenger et lagret kort for å kunne booke P-plasser",
+    "dialogYes": "Ja, fjern kortet",
+    "dialogCancel": "Avbryt",
+    "error1": "En feil oppstod. Prøv igjen!",
+    "delMsg": "Kortet ble slettet",
+    "cardOkMsg": "Kort ble lagret. Du kan nå bruke KOBBOY for å booke parkering!"
+  },
+
+  "vehicle": {
+    "vehicle": "Kjøretøydetaljer",
+    "subtitle": "PS: tapp for å endre bilde!",
+    "brand": "Merke",
+    "brandPH": "F.eks. Mazda, BMW, Mercedes",
+    "regnumber": "Reg. nr.",
+    "regnumberPH": "Reg. nr.",
+    "saveBtn": "Lagre kjøretøy",
+    "deleteBtn": "Slett kjøretøy",
+    "deleteTitle": "Slette kjøretøy?",
+    "deleteYes": "Ja, slett nå.",
+    "cancel": "Avbryt",
+    "error": "Feil",
+    "errorMsg": "Du må legge inn et bilde!",
+    "ok": "OK",
+    "errorMsg2": "Du må legge inn bilmerke og reg.nr.!",
+    "errorMsg3": "En feil oppstod. Prøv igjen!"
+  },
+
+  "tabilde": {
+    "title": "Endre profilbilde",
+    "pictureBtn": "Bruk kameraet",
+    "avbrytBtn": "Avbryt"
+  }
+}
