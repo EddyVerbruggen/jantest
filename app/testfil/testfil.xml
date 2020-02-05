@@ -1,6 +1,6 @@
-<Page xmlns="http://schemas.nativescript.org/tns.xsd" class="page" loaded="onPageLoaded" >
-    <StackLayout>
-    <Label text="{{ L('back') }}"></Label><!-- THIS IS NOT SHOWN -->
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" class="page" loaded="onPageLoaded">
+  <StackLayout>
+    <Label text="{{ L('back') }}"></Label><!-- THIS IS NOT SHOWN (update: this now works as well) -->
     <Label text="This show OK"></Label>
-    </StackLayout>
+  </StackLayout>
 </Page>
